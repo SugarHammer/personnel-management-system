@@ -4,7 +4,7 @@
     "href": "/welcome"
   },
   "logoInfo": {
-    "title": "XLK_zcx",
+    "title": "员工管理OA",
     "image": "images/logo.png",
     "href": ""
   },
@@ -183,21 +183,6 @@
           "title": "健康汇报",
           "href": "health",
           "icon": "fa fa-heart",
-          "target": "_self"
-        }
-      ]
-    }
-  ,
-    {
-      "title": "其它管理",
-      "icon": "fa fa-slideshare",
-      "href": "",
-      "target": "_self",
-      "child": [
-        {
-          "title": "系统性能",
-          "href": "druid/login.html",
-          "icon": "fa fa-superpowers",
           "target": "_self"
         }
       ]
