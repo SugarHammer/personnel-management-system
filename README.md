@@ -1,14 +1,13 @@
-# 基于SpringBoot+LayUi的人事管理OA系统
+# 基于SpringBoot的人事管理OA系统(数据库加VX获取☟)
 
 #### 介绍
-人事管理OA系统完结
+人事管理OA系统(SpringBoot)
 有BUG可留言加微
 
 #### 软件架构
-SpringBoot+LayUi
+Java + SpringBoot + LayUi + Mysql
 
 #### 使用说明
- **数据库文件请使用项目目录下doc文件夹中的sql文件** 
 
 采用IntelliJ IDEA 开发工具和Spring Boot及 MyBatis 等技术来搭建一个人事管理OA系统，具体内容如下:
 1.	员工管理：管理员可以对员工进行信息修改，添加员工与修改密码等操作员工只能看到各部门员工的信息。
@@ -22,15 +21,9 @@ SpringBoot+LayUi
 9.	公告管理：发布公告。
 10.     疫情管理：上传当日温度和行程码 健康码。（可修改）
 
-### 演示截图
-#### 登录&主界面
-![输入图片说明](photo/a.gif)
-
+### 部分功能演示
 #### 员工界面
 ![输入图片说明](photo/b.gif)
-
-#### 部门&职位界面
-![输入图片说明](photo/c.gif)
 
 #### 薪资&考勤界面
 ![输入图片说明](photo/d.gif)
@@ -41,17 +34,9 @@ SpringBoot+LayUi
 #### 公告&文件上传下载&图表&打卡界面
 ![输入图片说明](photo/f.gif)
 
-#### 代码&数据库概览
-![输入图片说明](photo/g.gif)
 
-### 环境需求
+### 环境需求(可免费提供)
 - idea/eclipse、jdk-1.8、maven-3.8.6、mysql
-
-### 项目支持
-- 项目的发展，离不开大家得支持~！~
-- 也可以请作者喝一杯咖啡:)
-![输入图片说明](photo/0-%E5%BE%AE%E4%BF%A1.png)
-![输入图片说明](photo/0-%E6%94%AF%E4%BB%98%E5%AE%9D.png)
 
 ## 有项目修改、安装调试需求 请联系微信
 ![输入图片说明](photo/0-WeChat.png)
