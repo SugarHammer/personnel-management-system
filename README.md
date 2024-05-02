@@ -1,7 +1,7 @@
-# 基于SpringBoot的人事管理OA系统(数据库加VX获取☟)
+# 人事管理OA系统(数据库加VX获取☟)
 
 #### 介绍
-人事管理OA系统(SpringBoot)
+基于SpringBoot的人事管理OA系统(SpringBoot)
 有BUG可留言加微
 
 #### 软件架构
