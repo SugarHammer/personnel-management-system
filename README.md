@@ -5,7 +5,7 @@
 有BUG可留言加微
 
 #### 软件架构
-Java + SpringBoot + LayUi + Mysql
+Java + SpringBoot + Mysql
 
 #### 使用说明
 
